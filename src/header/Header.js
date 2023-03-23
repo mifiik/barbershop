@@ -30,7 +30,6 @@ function Header() {
                </ul>
             </ul>
          </div>
-         <h1>Hello!!!</h1>
          <div className='foto-burger' onClick={burgerMenu}>
             <img src={fotoBurger} alt='menu' />
          </div>
